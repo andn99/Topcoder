@@ -1,5 +1,5 @@
 public class FriendlySequences{
-
+//Test edit file and the pull
     public static int count(int[] array){
         if(array.length <= 1)
             return 0;
