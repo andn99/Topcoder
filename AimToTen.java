@@ -2,6 +2,7 @@
  * Created by Ngoc An Do on 2/27/17.
  */
 public class AimToTen {
+    //Test commit git
     public static int need(int[] marks){
         int len = marks.length;
         double sum = 0;
